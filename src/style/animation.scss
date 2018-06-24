@@ -1,0 +1,19 @@
+
+@keyframes blackblur {
+    from { text-shadow: 0 0 10px #9D6F3E; color: transparent;opacity:0;}
+    to   { text-shadow: 0;color:#9D6F3E ;opacity:1;}
+}
+
+@keyframes fontbulger {
+  0%, 100% {
+    font-size: 10px;
+  }
+  50% {
+    font-size: 12px;
+  }
+}
+
+@keyframes opacity {
+    from { opacity:0;}
+    to   { opacity:1;}
+}
