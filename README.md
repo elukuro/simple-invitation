@@ -1,6 +1,6 @@
 # invitation
 
-> my personal wedding invitation
+> my personal wedding invitation crate with vue js please use as you wish 
 
 ## Build Setup
 
